@@ -1,0 +1,13 @@
+S:\work\bilibiliRE\bilibiliRE\bilibiliRE\bilibiliRE\obj\x86\Debug\bilibiliRE.csprojResolveAssemblyReference.cache
+S:\work\bilibiliRE\bilibiliRE\bilibiliRE\bilibiliRE\bin\Debug\bilibiliRE.exe
+S:\work\bilibiliRE\bilibiliRE\bilibiliRE\bilibiliRE\bin\Debug\bilibiliRE.pdb
+S:\work\bilibiliRE\bilibiliRE\bilibiliRE\bilibiliRE\bin\Debug\Newtonsoft.Json.dll
+S:\work\bilibiliRE\bilibiliRE\bilibiliRE\bilibiliRE\bin\Debug\Newtonsoft.Json.xml
+S:\work\bilibiliRE\bilibiliRE\bilibiliRE\bilibiliRE\obj\x86\Debug\bilibiliRE.exe
+S:\work\bilibiliRE\bilibiliRE\bilibiliRE\bilibiliRE\obj\x86\Debug\bilibiliRE.pdb
+S:\bilibiliRE\obj\x86\Debug\bilibiliRE.exe
+S:\bilibiliRE\obj\x86\Debug\bilibiliRE.pdb
+S:\bilibiliRE\bin\Debug\bilibiliRE.exe
+S:\bilibiliRE\bin\Debug\bilibiliRE.pdb
+S:\bilibiliRE\bin\Debug\Newtonsoft.Json.dll
+S:\bilibiliRE\obj\x86\Debug\bilibiliRE.csprojResolveAssemblyReference.cache
